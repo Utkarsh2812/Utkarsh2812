@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student studying at Symbiosis Institute of Technology<br>Skills <br>Python, Machine Learning, Java, 3D modelling<br>currrently working on image descriptor<br><br>
+Student studying at Symbiosis Institute of Technology<br>Skills <br>Python, Machine Learning, Java, 3D modelling<br>currrently working on image descriptor<br><br>
 
 
 ## 🌐 Socials:
