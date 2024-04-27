@@ -21,8 +21,6 @@ Passionate and adaptable student skilled in data analysis, MATLAB, and CAD/CAM, 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Utkarsh2812&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Utkarsh2812&icon=8&color=10)](https://visitcount.itsvg.in)
